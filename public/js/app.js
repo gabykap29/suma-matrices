@@ -64,10 +64,10 @@ btnSumar.addEventListener('click',async(e)=>{
     let matriz2 = [];
 
     inputMatriz1.forEach((input)=>{
-        matriz1.push(parseFloat(input.value));
+        matriz1.push(parseInt(input.value));
     });
     inputMatriz2.forEach((input)=>{
-        matriz2.push(parseFloat(input.value));
+        matriz2.push(parseInt(input.value));
     });
 
     const res = await fetch('/suma',{
