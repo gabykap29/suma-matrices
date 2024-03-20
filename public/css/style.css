@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+}
+.inputMatriz1 {
+    width: 20%; 
+    margin: 2px;
+}
+
+.inputMatriz2 {
+    width: 20%; 
+    margin: 2px;
+}
+
+.inputResultado{
+    width: 20%; 
+    margin: 2px;
+}
