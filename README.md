@@ -28,5 +28,5 @@ El servidor se ejecutará en el puerto 3000 por defecto.
 
 ### Acceso a la Aplicación
 
-Una vez que el servidor esté en funcionamiento, puedes acceder a la aplicación a través de tu navegador web ingresando la siguiente URL: http:localhost:3000
+Una vez que el servidor esté en funcionamiento, puedes acceder a la aplicación a través de tu navegador web ingresando la siguiente URL: http://localhost:3000
 
